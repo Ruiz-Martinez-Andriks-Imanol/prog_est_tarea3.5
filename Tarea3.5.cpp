@@ -1,26 +1,24 @@
-/* Autor: Andriks Imanol Ruiz Mart韓ez, Realizado: 03/02/2022 
+/* Autor: Andriks Imanol Ruiz Mart铆nez, Realizado: 03/02/2022 
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructrada
 Ciclo: 01/2022
 
-Este es un programa de ciclos y condicionales en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de ciclos y condicionales en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
 
     -Variables flotantes
     -printf para mostrar mensajes y variables
     -scanf
-    -El uso de include para las librer韆s
+    -El uso de include para las librer铆as
     -Ciclos
     -Contador
     -Condicionales
-    -Comentarios para la documentaci髇 interna del programa
+    -Comentarios para la documentaci贸n interna del programa
 */
-
 #include<stdio.h>
 #include<math.h>
-
 int main() {
-	//Declaraci髇
+	//Declaraci贸n
 	float a, r;
 	//Proceso
 	printf("Area del circulo \n");
